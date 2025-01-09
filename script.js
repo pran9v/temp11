@@ -72,7 +72,7 @@ function loadProductDetail() {
                 </div>
                 <p class="description">${product.description}</p>
                 <button class="add-to-cart" onclick="addToCart('${product.id}')">
-                    <i class="fas fa-shopping-cart"></i> Add to Cart
+                    <i class="fas fa-shopping-cart"></i> Buy Now
                 </button>
             </div>
         </div>
